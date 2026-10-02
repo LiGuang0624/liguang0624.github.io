@@ -1,5 +1,5 @@
 
-[![liguang](https://img.shields.io/badge/liguang-github-blue?logo=github)](https://github.com/liguang)
+[![LiGuang0624](https://img.shields.io/badge/LiGuang0624-github-blue?logo=github)](https://github.com/LiGuang0624)
 
 I am an undergraduate student in Computer Science and Technology at [Hunan University](https://www.hnu.edu.cn/), and I will pursue my Ph.D. in Artificial Intelligence at [Peking University](https://www.pku.edu.cn/) (recommended admission) starting from 2027. My research focuses on large language model memory systems, retrieval-augmented generation (RAG), AI agents, and machine learning systems.
 

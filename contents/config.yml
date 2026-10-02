@@ -9,10 +9,10 @@ background-overlay: 0.52
 copyright-text: '&copy; Guang Li 2023-2027. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/liguang
+  href: https://github.com/LiGuang0624
 license-link:
   text: License
-  href: https://github.com/liguang/liguang.github.io/blob/main/LICENSE
+  href: https://github.com/LiGuang0624/liguang.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
