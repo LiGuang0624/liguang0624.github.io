@@ -10,7 +10,6 @@ Email: guangli@hnu.edu.cn
 #### Education
 Ph.D. in Artificial Intelligence (expected), Peking University, 2027—2032. \
 B.E. in Computer Science and Technology, Hunan University, 2023—2027.
-- GPA: 3.95/4.0, Rank: 4/187.
 - Honors: National Scholarship, First-Prize Comprehensive Scholarship of Hunan University, Outstanding Student of Hunan University.
 - Test Scores: CCF-CSP 280 (Top 7%); First Prize, National Undergraduate Mathematics Competition (Hunan Division).
 - Selected Courses: Data Structures and Algorithms (98), Programming (98), Artificial Intelligence (95), Database Systems (93), Computer Networks (90).
