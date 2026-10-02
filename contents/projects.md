@@ -1,5 +1,5 @@
 #### MemTrace: Automatic Error Tracing and Attribution for LLM Memory Systems
-*Core Contributor | Oct 2025 – Feb 2026 | ICLR 2026 (Under Review)*
+*Core Contributor | Oct 2025 – Feb 2026 | ICLR 2026 (Under Review)* [[arXiv]](https://arxiv.org/abs/2605.28732) [[Code]](https://github.com/zjunlp/MemTrace)
 
 - Built MemTrace, an error tracing and attribution framework for LLM memory systems, and constructed MemTraceBench, the first diagnostic benchmark with 160 real-world failure cases across four mainstream memory systems (Long-Context, RAG, Mem0, EverMemOS).
 - Developed the smartcomment tracing toolkit, which transparently records variable- and operation-level information flow and dependencies as executable evolution graphs without rewriting underlying code.
