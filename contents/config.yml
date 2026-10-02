@@ -1,27 +1,31 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Guang Li's Homepage
+page-top-title: Guang Li
+top-section-bg-text: Artificial Intelligence
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Guang Li 2023-2027. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/liguang
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/liguang/liguang.github.io/blob/main/LICENSE
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Guang Li&ensp;|&ensp;李光
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
+  - id: projects
+    nav: PROJECTS
+    title: PROJECTS
+    icon: bi-kanban-fill
   - id: awards
     nav: AWARDS
     title: AWARDS

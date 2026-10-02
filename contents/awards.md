@@ -1,12 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Scholarship for Undergraduate Students (Ministry of Education, China), 2024—2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- First-Prize Comprehensive Scholarship, Hunan University, 2023—2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Outstanding Student, Hunan University, 2023—2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- CCF-CSP Certification Score 280 (Top 7%), 2024.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- First Prize, National Undergraduate Mathematics Competition (Hunan Division), 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Course Honors: Data Structures and Algorithms (98), Programming (98), Artificial Intelligence (95), Database Systems (93), Computer Networks (90).

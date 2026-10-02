@@ -1,16 +1,19 @@
 
+[![liguang](https://img.shields.io/badge/liguang-github-blue?logo=github)](https://github.com/liguang)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am an undergraduate student in Computer Science and Technology at [Hunan University](https://www.hnu.edu.cn/), and I will pursue my Ph.D. in Artificial Intelligence at [Peking University](https://www.pku.edu.cn/) (recommended admission) starting from 2027. My research focuses on large language model memory systems, retrieval-augmented generation (RAG), AI agents, and machine learning systems.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: guangli@hnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. in Artificial Intelligence (expected), Peking University, 2027—2032. \
+B.E. in Computer Science and Technology, Hunan University, 2023—2027.
+- GPA: 3.95/4.0, Rank: 4/187.
+- Honors: National Scholarship, First-Prize Comprehensive Scholarship of Hunan University, Outstanding Student of Hunan University.
+- Test Scores: CCF-CSP 280 (Top 7%); First Prize, National Undergraduate Mathematics Competition (Hunan Division).
+- Selected Courses: Data Structures and Algorithms (98), Programming (98), Artificial Intelligence (95), Database Systems (93), Computer Networks (90).
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Large Language Model Memory Systems; Retrieval-Augmented Generation; AI Agents; Machine Learning Systems; MLOps
